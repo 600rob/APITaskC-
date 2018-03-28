@@ -1,0 +1,13 @@
+H:\Development\Sharp\WebApiCodeTest\bin\Debug\WebApiCodeTest.dll.config
+H:\Development\Sharp\WebApiCodeTest\bin\Debug\WebApiCodeTest.dll
+H:\Development\Sharp\WebApiCodeTest\bin\Debug\WebApiCodeTest.pdb
+H:\Development\Sharp\WebApiCodeTest\bin\Debug\Newtonsoft.Json.dll
+H:\Development\Sharp\WebApiCodeTest\bin\Debug\nunit.framework.dll
+H:\Development\Sharp\WebApiCodeTest\bin\Debug\RestSharp.dll
+H:\Development\Sharp\WebApiCodeTest\bin\Debug\TechTalk.SpecFlow.dll
+H:\Development\Sharp\WebApiCodeTest\bin\Debug\Newtonsoft.Json.xml
+H:\Development\Sharp\WebApiCodeTest\bin\Debug\nunit.framework.xml
+H:\Development\Sharp\WebApiCodeTest\bin\Debug\RestSharp.xml
+H:\Development\Sharp\WebApiCodeTest\obj\Debug\WebApiCodeTest.csprojResolveAssemblyReference.cache
+H:\Development\Sharp\WebApiCodeTest\obj\Debug\WebApiCodeTest.dll
+H:\Development\Sharp\WebApiCodeTest\obj\Debug\WebApiCodeTest.pdb
